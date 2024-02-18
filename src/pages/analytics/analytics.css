@@ -1,0 +1,35 @@
+
+
+.analytics{
+    flex: 6;
+}
+
+.analyticsWidgets{
+    display: flex;
+    margin: 20px;
+}
+
+.analyticsText {
+      width: 660px;
+      height: 300px;
+      border: 1px solid;
+      font-size: 20px;
+      overflow: scroll;
+      text-align: center;
+    }
+    .analyticsTable {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    .analyticsElement{
+        border: 1px solid #dddddd;
+        text-align: center;
+        padding: 8px;
+    }
+
+    .analytics .analyticsElement tr:nth-child(even) {
+        background-color: #dddddd;
+    }
+    select { width: 150px;}
