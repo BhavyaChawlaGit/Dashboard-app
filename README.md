@@ -1,6 +1,7 @@
 # Dashboard App using React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Material UI](https://mui.com/material-ui/getting-started/templates/)
 
 In the project directory, you can run:  
 
